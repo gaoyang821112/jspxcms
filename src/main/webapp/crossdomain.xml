@@ -3,4 +3,6 @@
 	<allow-access-from domain="*.jspxcms.com"/>
 	<allow-access-from domain="localhost"/>
 	<allow-access-from domain="127.0.0.1"/>
+	<allow-access-from domain="101.200.166.22"/>
+	<allow-access-from domain="123.57.216.134"/>
 </cross-domain-policy>
